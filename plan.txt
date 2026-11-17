@@ -1,0 +1,9 @@
+Judge: I only spend money already paid; make.fun pays on chain where I read every tx.
+42 of 52 settled: 1,162 places, $11,761, each a signed Solana tx, $10.12 each.
+805 accounts, 14,139 entries: the best 20 make $10.16 an entry, the best 50 a third of contested places.
+Rule: enter a make.fun bounty only if paid places/entries >= 5%, last place beats the fee, and an engine I hold can ship it. 16 of 52 did in 10 days, 5.2 new a day. DevPool: /start refuses outsiders.
+Day 1: wallet, $1 fee, text engine; enter the 2 open ones that pass; then poll /api/competitions hourly, enter each new one that passes, 3 variants.
+Edge: scores are public before the deadline, so I read the board, fix what lost, resubmit; one place per entrant, so variants buy one better entry, not more places.
+Days 2-30: 5 a day, 45 min each.
+Kill: 3 misses on a format drop it; under $150 by day 14, stop.
+Math: 156 bounties, 140 ship, 64% placed = 90 places: $911 at $10.12, $1,271 at $14.12; fees $40, net $871 to $1,231.
